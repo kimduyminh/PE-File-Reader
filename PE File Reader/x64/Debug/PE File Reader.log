@@ -1,0 +1,17 @@
+﻿  PE File ReaderDlg.cpp
+C:\Users\Kim Duy Minh\OneDrive - sh3h\Projects\PE File Reader\PE File Reader\PE File Reader\PE File ReaderDlg.cpp(216,78): warning C4244: 'argument': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+  (compiling source file '/PE%20File%20ReaderDlg.cpp')
+  
+C:\Users\Kim Duy Minh\OneDrive - sh3h\Projects\PE File Reader\PE File Reader\PE File Reader\PE File ReaderDlg.cpp(231,89): warning C4244: 'argument': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+  (compiling source file '/PE%20File%20ReaderDlg.cpp')
+  
+C:\Users\Kim Duy Minh\OneDrive - sh3h\Projects\PE File Reader\PE File Reader\PE File Reader\PE File ReaderDlg.cpp(232,88): warning C4244: 'argument': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+  (compiling source file '/PE%20File%20ReaderDlg.cpp')
+  
+C:\Users\Kim Duy Minh\OneDrive - sh3h\Projects\PE File Reader\PE File Reader\PE File Reader\PE File ReaderDlg.cpp(233,88): warning C4244: 'argument': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+  (compiling source file '/PE%20File%20ReaderDlg.cpp')
+  
+C:\Users\Kim Duy Minh\OneDrive - sh3h\Projects\PE File Reader\PE File Reader\PE File Reader\PE File ReaderDlg.cpp(234,87): warning C4244: 'argument': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+  (compiling source file '/PE%20File%20ReaderDlg.cpp')
+  
+  PE File Reader.vcxproj -> C:\Users\Kim Duy Minh\OneDrive - sh3h\Projects\PE File Reader\PE File Reader\x64\Debug\PE File Reader.exe
